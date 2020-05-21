@@ -1,0 +1,30 @@
+{
+  "name": "@ngsctt/shadow-box",
+  "version": "0.1.0",
+  "description": "A utility to create drop shadow boxes for terminal output. Inspired by boxen",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENCE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngsctt/shadow-box.git"
+  },
+  "author": "Nathan Scott <dev@ngscott.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngsctt/shadow-box/issues"
+  },
+  "homepage": "https://github.com/ngsctt/shadow-box#readme",
+  "dependencies": {
+    "ansi-align": "^3.0.0",
+    "chalk": "^4.0.0",
+    "gradient-string": "^1.2.0",
+    "widest-line": "^3.1.0"
+  }
+}
