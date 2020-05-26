@@ -41,3 +41,6 @@ I couldn't find any other packages that produce drop shadows using basic box dra
 
 # Licence
 Released under the MIT [Licence](/LICENCE).
+
+
+[boxen]: https://github.com/sindresorhus/boxen
