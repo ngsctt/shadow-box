@@ -38,6 +38,7 @@ I couldn't find any other packages that produce drop shadows using basic box dra
     console.info(shadowBox(cliContent, shadowBoxOptions));
     ```
 
+    ![Example terminal output](/example.png)
 
 ## Licence
 Released under the MIT [Licence](/LICENCE).
