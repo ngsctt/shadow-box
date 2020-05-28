@@ -1,6 +1,6 @@
 {
   "name": "@ngsctt/shadow-box",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A utility to create drop shadow boxes for terminal output. Inspired by boxen",
   "main": "index.js",
   "files": [
