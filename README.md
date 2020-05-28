@@ -22,7 +22,7 @@ I couldn't find any other packages that produce drop shadows using basic box dra
 
 3. Use the package:
     ```js
-    const text = 'Some text, including + chalk.yellowBright('highlights') + ',\n can be used.');
+    const text = 'Some text, including ' + chalk.yellowBright('highlights') + ',\n can be used.';
     const shadowBoxOptions = {  // default options:
       background: '#0000ff',
       shadow: '#ff0000',
@@ -35,7 +35,7 @@ I couldn't find any other packages that produce drop shadows using basic box dra
       align: 'center'
     };
 
-    console.info(shadowBox(cliContent, shadowBoxOptions));
+    console.info(shadowBox(text, shadowBoxOptions));
     ```
 
     ![Example terminal output](/example.png)
