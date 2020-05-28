@@ -2,10 +2,10 @@
 
 A basic utility to draw boxes with drop shadows in command line output. Heavily inspired by [boxen][].
 
-# Why
+## Why
 I couldn't find any other packages that produce drop shadows using basic box drawing elements, so I made my own.
 
-# How
+## How
 1. Install the package:
     ```
     npm i @ngsctt/shadow-box
@@ -39,8 +39,9 @@ I couldn't find any other packages that produce drop shadows using basic box dra
     ```
 
 
-# Licence
+## Licence
 Released under the MIT [Licence](/LICENCE).
 
 
 [boxen]: https://github.com/sindresorhus/boxen
+[pnpm]:  https://pnpm.js.org
